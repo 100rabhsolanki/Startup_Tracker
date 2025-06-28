@@ -82,10 +82,10 @@ Valuations are determined by various factors, including market size, company pot
 
 **ERD Diagram**
 
-![Image Title](image.png)
+[![Image Title](image.png)](https://github.com/100rabhsolanki/Startup_Tracker/issues/1)
 
 **Data Structure with Primary Keys and Foreign Keys**
 
-![Another Image](image-1.png)
+[![Another Image](image-1.png)](https://github.com/100rabhsolanki/Startup_Tracker/issues/2)
 
 >Above design is in most ideal case, since we pull data from different sourses to fix the data quality issue that exist in `India_Funding_AllYear`; in reality, the `LEFT OUTER JOIN` or `INNER JOIN` did not perform well.
