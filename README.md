@@ -2,7 +2,7 @@
 I have taken Raw data of indian startup and then cleaned the data and extracted the needful informations, that will be going to help us to understand about startup culture. 
 =======
 ## **<span style="color:#023e8a;font-size:200%"><center>Indian Startup Funding</center></span>**
-## **<center><span style="color:#FEF1FE;background-color:#023e8a;border-radius: 5px;padding: 5px">By: Yicheng Jiang, Bhagirath Bhardwaj, Agnes Shih, Paul Seiters, and Siddharth Bookinkere</span></center>**
+## **<center><span style="color:#FEF1FE;background-color:#023e8a;border-radius: 5px;padding: 5px">By:Saurabh Sollanki</span></center>**
 
 ### **<span id="EDA" style="color:#023e8a;">Project and Dataset Overview</span>**
 
